@@ -1,2 +1,5 @@
 This is file6
+
 This line is added from remote
+This is line2
+
