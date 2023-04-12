@@ -3,5 +3,9 @@ This another line added from remote
 This line is added from remote
 This is line2
 This line is another line added from local
+
 This line added from remote
+
+This line is added from local
+
 
