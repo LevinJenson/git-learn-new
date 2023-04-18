@@ -2,3 +2,4 @@ Hi this is file four
 from remote
 This is for checking frtch --all
 from remote
+from remote
